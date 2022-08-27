@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "gh-pages": "^4.0.0",
+    "parcel": "^2.7.0",
+    "three": "^0.143.0"
+  },
+  "name": "solar-sytems",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arindamk143/Solar-System.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arindamk143/Solar-System/issues"
+  },
+  "homepage": "https://github.com/Arindamk143/Solar-System#readme",
+  "description": ""
+}
